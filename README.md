@@ -26,6 +26,9 @@ after switching to graph based tsp algorithm:
 2. ssim matrix formed by calculating score and computing entire NxN matrix
 3. using tsp based heuristic search and running 2 opt local search
 
+[INFO] Average consecutive-frame SSIM: 0.9567
+[INFO] Average consecutive-frame pixel difference: 3.61
+
 ![alt text](tsc2oct_NxN.png)
 
 **optimization needed:**
